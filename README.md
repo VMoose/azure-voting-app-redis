@@ -11,6 +11,9 @@ To walk through a complete experience where this code is packaged into container
 ## Contributing to the Source Repository
 (See Source: https://github.com/Azure-Samples/azure-voting-app-redis)
 
+## Running on Google Cloud
+Use command : export LD_LIBRARY_PATH=/usr/local/lib
+
 ## License
 [MIT License](https://github.com/udacity/azure-voting-app-redis/blob/master/LICENSE)
 ```
